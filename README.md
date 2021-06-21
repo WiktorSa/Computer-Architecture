@@ -8,4 +8,4 @@ Task 7 - advanced calculator (more operations, also included float numbers) <br/
 Task 8 - calculator than when given an equation (like 2 + 2 * 3) will give the correct result <br/>
 Task 9 - calculator that also handles all the exceptions (like division by 0)
 
-Descryption of every task is in the file tasks.pdf (in polish language)
+Detailed descryption of every task is in the file tasks.pdf (in polish language)
